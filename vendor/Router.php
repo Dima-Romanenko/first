@@ -3,6 +3,6 @@
 class Router
 {
     static public function init() {
-        echo '123';
+        echo 'Application is working';
     }
 }
